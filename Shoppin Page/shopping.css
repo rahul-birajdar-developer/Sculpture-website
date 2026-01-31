@@ -500,6 +500,10 @@ i{
     text-decoration: none;
 }
 
+.ul-text{
+    font-size:0.625rem;line-height:175%;padding-left:3px;margin-top:-10px;
+}
+
 .is-family-secondary {
     font-family: "Montserrat", sans-serif !important;
 }
